@@ -1,4 +1,3 @@
-This project focuses on developing a real-time Driver Drowsiness Detection System to enhance road safety by monitoring and analyzing drivers' behavioral characteristics. The system utilizes a dataset of 7000 facial expressions to identify signs of drowsiness, such as eye closure, yawning, and head nodding.
 
 Key Features:
 
